@@ -10,7 +10,7 @@ O objetivo desta parte da atividade é submeter o site escolhido a um validador 
 
 Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos problemas possuem natureza parecida. Por conta disso, eles foram agrupados em 9 categorias abaixo. Cada uma das categorias de problemas será resolvido em um PR diferente, que será anexado ao seu lado após sua realização.
 
-- [ ] Consider avoiding viewport values that prevent users from resizing documents. (#1)
+- [x] Consider avoiding viewport values that prevent users from resizing documents. ([#1](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/1))
 
 - [ ] Attribute ____ is not serializable as XML 1.0
 
