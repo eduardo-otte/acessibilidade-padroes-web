@@ -14,7 +14,7 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] Attribute ____ is not serializable as XML 1.0 ([#2](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/2))
 
-- [ ] Attribute ____ not allowed on element ____ at this point
+- [X] Attribute ____ not allowed on element ____ at this point ([#3](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/3))
 
 - [ ] Element _____ not allowed as child of element ____ in this context
 
