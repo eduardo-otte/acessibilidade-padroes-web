@@ -12,7 +12,7 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [x] Consider avoiding viewport values that prevent users from resizing documents. ([#1](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/1))
 
-- [ ] Attribute ____ is not serializable as XML 1.0 ([#2](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/2))
+- [X] Attribute ____ is not serializable as XML 1.0 ([#2](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/2))
 
 - [ ] Attribute ____ not allowed on element ____ at this point
 
