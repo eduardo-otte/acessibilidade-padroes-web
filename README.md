@@ -24,6 +24,6 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] End tag _____ seen, but there were open elements. ([#7](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/7))
 
-- [ ] Unclosed element
+- [X] Unclosed element ([#8](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/8))
 
 - [ ] The type attribute is unnecessary for JavaScript resources.
