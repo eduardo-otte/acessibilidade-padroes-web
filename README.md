@@ -18,7 +18,7 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] Element _____ not allowed as child of element ____ in this context ([#4](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/4))
 
-- [ ] An `img` element must have an `alt` attribute, except under certain conditions
+- [X] An `img` element must have an `alt` attribute, except under certain conditions ([#5](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/5))
 
 - [ ] Self-closing syntax (`/>`) used on a non-void HTML element. Ignoring the slash and treating as a start tag.
 
