@@ -10,7 +10,7 @@ O objetivo desta parte da atividade é submeter o site escolhido a um validador 
 
 Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos problemas possuem natureza parecida. Por conta disso, eles foram agrupados em 9 categorias abaixo. Cada uma das categorias de problemas será resolvido em um PR diferente, que será anexado ao seu lado após sua realização.
 
-- [x] Consider avoiding viewport values that prevent users from resizing documents. ([#1](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/1))
+- [x] Consider avoiding viewport values that prevent users from resizing documents ([#1](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/1))
 
 - [X] Attribute ____ is not serializable as XML 1.0 ([#2](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/2))
 
@@ -20,10 +20,10 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] An `img` element must have an `alt` attribute, except under certain conditions ([#5](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/5))
 
-- [X] Self-closing syntax (`/>`) used on a non-void HTML element. Ignoring the slash and treating as a start tag. ([#6](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/6))
+- [X] Self-closing syntax (`/>`) used on a non-void HTML element. Ignoring the slash and treating as a start tag ([#6](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/6))
 
-- [X] End tag _____ seen, but there were open elements. ([#7](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/7))
+- [X] End tag _____ seen, but there were open elements ([#7](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/7))
 
 - [X] Unclosed element ([#8](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/8))
 
-- [ ] The type attribute is unnecessary for JavaScript resources.
+- [X] The type attribute is unnecessary for JavaScript resources ([#9](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/9))
