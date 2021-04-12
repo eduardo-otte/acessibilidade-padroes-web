@@ -20,7 +20,7 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] An `img` element must have an `alt` attribute, except under certain conditions ([#5](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/5))
 
-- [ ] Self-closing syntax (`/>`) used on a non-void HTML element. Ignoring the slash and treating as a start tag.
+- [X] Self-closing syntax (`/>`) used on a non-void HTML element. Ignoring the slash and treating as a start tag. ([#6](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/6))
 
 - [ ] End tag _____ seen, but there were open elements.
 
