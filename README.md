@@ -16,7 +16,7 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] Attribute ____ not allowed on element ____ at this point ([#3](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/3))
 
-- [ ] Element _____ not allowed as child of element ____ in this context
+- [X] Element _____ not allowed as child of element ____ in this context ([#4](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/4))
 
 - [ ] An `img` element must have an `alt` attribute, except under certain conditions
 
