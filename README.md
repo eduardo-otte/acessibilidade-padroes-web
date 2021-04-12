@@ -22,7 +22,7 @@ Foram apontados ao todo 29 problemas no HTML do site. Contudo, diversos dos prob
 
 - [X] Self-closing syntax (`/>`) used on a non-void HTML element. Ignoring the slash and treating as a start tag. ([#6](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/6))
 
-- [ ] End tag _____ seen, but there were open elements.
+- [X] End tag _____ seen, but there were open elements. ([#7](https://github.com/eduardo-otte/acessibilidade-padroes-web/pull/7))
 
 - [ ] Unclosed element
 
